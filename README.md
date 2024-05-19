@@ -1,7 +1,7 @@
 [![MasterHead](./github-header-image.png)
 <h1 align="center">Hey 👋,there it's me Sourashish Mandal</h1>
 <h3 align="center">A passionate tech enthusiast & developer from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://images.app.goo.gl/UAUUF1Bi4GbXN7uP8”>
+<img align="right" alt="Coding" width="400" src=“10.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourashish9&label=Profile%20views&color=0e75b6&style=flat" alt="sourashish9" /> </p>
 
